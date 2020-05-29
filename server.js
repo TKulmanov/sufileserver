@@ -2,7 +2,7 @@ const jsonServer = require('json-server');
 const bodyParser = require('body-parser');
 
 const server = jsonServer.create();
-const router = jsonServer.router('files.json');
+const router = jsonServer.router('./files.json');
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3000;
 
