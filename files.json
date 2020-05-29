@@ -1,0 +1,38 @@
+{
+    "files":{
+        [
+            {
+                "fileId": 1,
+                "fileUrl":"doc/LW1.docx"
+            },
+            {
+                "fileId": 2,
+                "fileUrl":"doc/LW2.docx"
+            },
+            {
+                "fileId": 3,
+                "fileUrl":"doc/syl.doc"
+            },
+            {
+                "fileId": 4,
+                "fileUrl":"doc/syl.doc"
+            },
+            {
+                "fileId": 5,
+                "fileUrl":"pdf/L1.pdf"
+            },
+            {
+                "fileId": 6,
+                "fileUrl":"pdf/L2.pdf"
+            },
+            {
+                "fileId": 7,
+                "fileUrl":"pdf/L3.pdf"
+            },
+            {
+                "fileId": 8,
+                "fileUrl":"pdf/L4.pdf"
+            },
+        ]
+    }
+}
